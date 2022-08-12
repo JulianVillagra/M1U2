@@ -3,3 +3,5 @@ expensas
 luz 
 agua
 gas
+comida 
+alimento del gato
