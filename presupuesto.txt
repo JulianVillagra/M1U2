@@ -6,4 +6,5 @@ gas
 comida 
 alimento del gato
 se me vencio la boleta 
-hoy trabajo de 14 a 22 
+hoy trabajo de 14 a 22 hs
+cargar la sube
